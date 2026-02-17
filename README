@@ -1,0 +1,17 @@
+# [Pranit Kapse] | Technical Communication Portfolio
+
+I am a Technical Communicator focused on bridging the gap between complex engineering and end-user success. This repository showcases my ability to write, structure, and manage documentation using a **Docs-as-Code** workflow.
+
+## 🚀 Featured Samples
+
+| Project | Type | Key Skill |
+| :--- | :--- | :--- |
+| [API Reference](./samples/api-reference.md) | Technical | OpenAPI/Swagger, cURL, JSON |
+| [User Onboarding](./samples/user-guide.md) | Educational | UX Writing, Flowcharts |
+| [Documentation Style Guide](./samples/style-guide.md) | Strategy | Voice & Tone, Governance |
+## 🛠 Tech Stack
+- **Authoring:** Markdown, AsciiDoc, DITA, Confluence, FrameMaker,Robohelp
+- **Tools:** Git, VS Code, Postman, Jira
+- **Visuals:** Mermaid.js, Snagit, Figma
+- **Workflows:** CI/CD (GitHub Actions), Agile/Scrum
+**Let's Connect:** [https://www.linkedin.com/in/pranit-kapse-721340284/] | [kapsepranit284@gmail.coml]
